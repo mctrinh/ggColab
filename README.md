@@ -1,2 +1,2 @@
 # ggColab
-Google Colab Projects
+Google Colab starting scripts.

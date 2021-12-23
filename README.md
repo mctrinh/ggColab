@@ -1,9 +1,7 @@
 # ggColab
 
-TensorFlow tutorial/practicing codes in Google Colab.
+TensorFlow tutorial/collecting/practicing codes run in Google Colab.
 
-Sources and References (if applicable) are indicated in the corresponding Jupyter notebooks.
-
-Reference:
+Go to the following link for full tutorials.
 
 https://www.tensorflow.org/tutorials

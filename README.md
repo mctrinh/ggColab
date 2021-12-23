@@ -1,5 +1,5 @@
 # ggColab
 
-A good collection of Google Colab starting codes.
+TensorFlow tutorial/practicing codes in Google Colab.
 
-Sources and References (if applicable) are indicated in the scripts.
+Sources and References (if applicable) are indicated in the corresponding Jupyter notebooks.
